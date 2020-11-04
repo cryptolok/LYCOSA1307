@@ -1,4 +1,4 @@
-# LYCSOA 1307
+# LYCOSA 1307
 CypherPunk city-specific challenges with epic loot
 
 These challenges will test your knowledge and skills in mathematics, cryptology, reverse-engineering, steganology, compression and encoding
